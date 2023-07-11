@@ -1,7 +1,5 @@
 # ECMAScript 기초
 
-문서 내의 예시 코드는 **Typescript**를 사용하며, https://github.com/yamoo9/ssafy-react-2023/의 코드를 기반으로 하고 있다.
-
 ## Typescript 개발 환경 구성
 
 ### 프로그램 설치
