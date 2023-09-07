@@ -1,4 +1,4 @@
-# react-study
+# frontend-study
 
 SSAFY 9기 리액트 특강 내용을 정리한 저장소다.
 
